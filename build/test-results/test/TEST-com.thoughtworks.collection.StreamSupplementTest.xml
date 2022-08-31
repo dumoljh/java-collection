@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.thoughtworks.collection.StreamSupplementTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-08-31T13:41:13" hostname="MNLITA14-W10" time="0.027">
+  <properties/>
+  <testcase name="should_get_average_of_list()" classname="com.thoughtworks.collection.StreamSupplementTest" time="0.023"/>
+  <testcase name="should_return_max_value()" classname="com.thoughtworks.collection.StreamSupplementTest" time="0.002"/>
+  <testcase name="should_sort_from_max_to_min()" classname="com.thoughtworks.collection.StreamSupplementTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
